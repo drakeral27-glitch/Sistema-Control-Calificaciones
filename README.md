@@ -51,22 +51,3 @@ En Windows PowerShell, ejecutar el programa con:
 ```powershell
 .\main.exe
 ```
-
-## Evidencias de ejecución
-Agregar en esta sección capturas reales del programa ejecutándose. Las capturas deben mostrar pruebas distintas, por ejemplo:
-1. Registro de un grupo con estudiantes aprobados y reprobados.
-2. Validación de una nota fuera del rango (por ejemplo, 120).
-3. Registro de un segundo grupo.
-
-Guardar las imágenes dentro de una carpeta llamada `capturas` y enlazarlas aquí. Ejemplo:
-
-```markdown
-![Prueba 1](capturas/prueba1.png)
-![Prueba 2](capturas/prueba2.png)
-![Prueba 3](capturas/prueba3.png)
-```
-
-## Archivos del proyecto
-- `main.cpp`: código fuente del programa.
-- `README.md`: documentación del proyecto.
-- `capturas/`: evidencias de ejecución agregadas por el estudiante.
