@@ -5,7 +5,6 @@
 **Asignatura:** Lógica de Programación  
 **Profesor:** Gamalier Reyes del Carmen  
 **Actividad:** Sistema de control de calificaciones de un centro educativo  
-**Fecha de entrega:** [Completar]
 
 ## Descripción
 Este programa de consola permite registrar las calificaciones de los estudiantes de un grupo. Solicita cuatro notas por estudiante, calcula el promedio y determina si el estudiante está aprobado o reprobado. Al finalizar presenta un resumen general del grupo.
@@ -44,10 +43,6 @@ Con GCC instalado, abrir una terminal en la carpeta del proyecto y ejecutar:
 ```bash
 g++ main.cpp -o main
 ./main
-```
 
-En Windows PowerShell, ejecutar el programa con:
-
-```powershell
 .\main.exe
 ```
